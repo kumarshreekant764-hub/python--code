@@ -77,5 +77,3 @@ def converter(usd_val):
     print(usd_val, "usd =", inr_val, "inr")
 
 converter(5)
-
-            
